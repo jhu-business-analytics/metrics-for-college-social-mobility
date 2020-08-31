@@ -78,3 +78,23 @@ Alternatively, you can reformat the data using the Format menu options to do the
 
 ### Filtering Data
 
+If we want to get a better idea of what's in our dataset, we might find the Excel Filter function useful to see how many "categories" of information are in each column. Excel filters can also help us preliminarily sort our information to see the largest, smallest, or specific subsets of information in specific columns with their corresponding data in other columns. 
+
+To add filter options in our dataset:
+
+1. Make sure you only have one cell in your dataset selected, or select the only column\(s\) that you want to add filters to
+2. Click on the Filter icon in the top right corner
+3. Select "Filter"
+
+![](.gitbook/assets/filter.png)
+
+Notice that now all of the column headers now have a tiny arrow on the right side of their cells. Clicking on these arrows allows you to see how the information in your column might be sorted and view specific subsets of the data here. For example, if we want to see how many "tiers" the colleges are sorted into, we can click the arrow next to "tier" under column K to see that there are 12 tiers of colleges represented in this dataset:
+
+![](.gitbook/assets/screen-shot-2020-08-31-at-12.37.42-pm.png)
+
+We can then sort this column by Ascending \(smallest to largest number or A to Z\) or Descending \(largest to smallest number or Z to A\) order, select specific "groups" of data that we want to view, or create a logic statement to view conditional data. For example, if we wanted to view only colleges in cities that were located in a counties that started with "San" \(e.g. San Diego"\), then we could create a logic statement to view only this data: 
+
+![](.gitbook/assets/screen-shot-2020-08-31-at-12.40.04-pm.png)
+
+And our column data would automatically filter to only view county names that begin with "San."
+
