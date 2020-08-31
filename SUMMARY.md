@@ -6,4 +6,5 @@
 * [Understanding Big Picture Information about your Data](understanding-big-picture-information-about-your-data.md)
 * [Basic Excel Formulas](basic-excel-formulas.md)
 * [Pivot Tables](pivot-tables.md)
+* [Pivot \(and Excel\) Charts](pivot-and-excel-charts.md)
 
